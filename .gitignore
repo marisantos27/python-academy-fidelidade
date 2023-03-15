@@ -1,0 +1,15 @@
+# backup files
+*.bk
+
+# web files
+*.html
+
+# jupyter chekpoints
+*/.ipynb_checkpoints/*.ipynb
+**/*.ipynb_checkpoints/
+
+# python files
+__pycache__/
+
+# data files
+use-cases/data/*

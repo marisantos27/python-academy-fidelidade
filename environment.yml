@@ -1,0 +1,12 @@
+name: python-academy
+dependencies:
+  - python>=3.9
+  - pandas
+  - jupyterlab
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - openpyxl
+  - ipywidgets
+  - conda-forge::typeguard
+  - conda-forge::prophet
